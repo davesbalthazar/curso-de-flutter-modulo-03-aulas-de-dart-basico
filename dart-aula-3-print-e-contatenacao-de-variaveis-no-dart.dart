@@ -1,8 +1,8 @@
 ///
 /// Curso de Flutter e Dart
 /// Daves Balthazar
-/// Aula 2 - Tipos de variáveis no Dart
-/// https://www.youtube.com/watch?v=znuxJ1_CQck&list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx&index=5
+/// Aula 3 - Print e contatenção de variáveis no Dart
+/// https://www.youtube.com/watch?v=8SytrwQ3HbI&list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx&index=6
 ///
 void main() {
   // Tipos de variáveis no Dart
@@ -32,4 +32,20 @@ void main() {
   print(venda);
   print(variavel);
   print(variavel2);
+
+  print('Código codigo');
+  print('Código $codigo');
+  print('Código ${codigo * 2}');
+
+  // Contatenando strings
+  print('Produto de Código ' +
+      codigo.toString() +
+      ' é ' +
+      nome +
+      ' e o valor do produto em dobro do produto é ' +
+      (preco * 2).toString());
+
+  // Interpolação de strings
+  print('Produto de Código $codigo é $nome e o valor do produto '
+      'em dobro do produto é ${preco * 2}');
 }

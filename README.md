@@ -15,6 +15,20 @@ https://www.youtube.com/watch?v=znuxJ1_CQck&list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiT
 Código-fonte: 
 
 
+Aula 03:
+Print e contatenção de variáveis no Dart
+https://www.youtube.com/watch?v=8SytrwQ3HbI&list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx&index=6
+Código-fonte:
+
+
+Aula 04:
+Funções matemáticas no Dart
+Como Fazer Adição, Subtração, Multiplicação e Divisão no Flutter
+Operações Aritméticas em Dart
+https://www.youtube.com/watch?v=mgQfCHBjodw&list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx&index=8
+Código-fonte:
+
+
 
 
 Vamos falar sobre a linguagem Dart, a origem da linguagem dart e o uso do dart no sdk do Flutter. Vamos também falar do dart.dev.
