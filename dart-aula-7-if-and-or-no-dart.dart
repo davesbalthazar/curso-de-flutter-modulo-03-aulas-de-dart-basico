@@ -12,7 +12,7 @@ void main() {
 
   bool sair = false;
 
-  // || OR
+  // && AND
   if ((clima == 'Sol' && temperatura > 20) || sair == true) {
     print('Vou sair de casa');
   } else {
