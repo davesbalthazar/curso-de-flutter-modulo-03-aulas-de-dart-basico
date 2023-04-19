@@ -5,8 +5,6 @@
 /// https://www.youtube.com/watch?v=8SytrwQ3HbI&list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx&index=6
 ///
 void main() {
-  // Tipos de variáveis no Dart
-
   // int: para números inteiros.
   int codigo = 3;
 
