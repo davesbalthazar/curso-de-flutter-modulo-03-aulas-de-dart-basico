@@ -7,6 +7,7 @@
 /// https://www.youtube.com/watch?v=mgQfCHBjodw&list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx&index=8
 ///
 void main() {
+  // Funções matemáticas no Dart
   int numero1 = 3;
   int numero2 = 2;
 
