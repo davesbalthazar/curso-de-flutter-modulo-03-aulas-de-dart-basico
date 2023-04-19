@@ -20,5 +20,6 @@ void main() {
 
   String mensagem =
       clima == 'Sol' ? 'Lindo dia ensolarado!' : 'Tomara que saia sol';
+
   print(mensagem);
 }
