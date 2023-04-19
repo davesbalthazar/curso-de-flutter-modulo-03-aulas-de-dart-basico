@@ -85,3 +85,4 @@ O Curso é Gratuito e está disponível no Youtube nesta Playlist:
 https://www.youtube.com/playlist?list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx
 
 Daves Balthazar
+https://youtube.com/davestecnologia
